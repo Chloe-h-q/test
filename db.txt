@@ -1,0 +1,5 @@
+creat table t_book(
+    book_id int not null primary key comment '书本编号',
+    book_name varchar(50) not null comment '书本名称' 
+
+)
